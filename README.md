@@ -38,6 +38,8 @@ or
 
 ```git push heroku master```
 
+https://github.com/nursnaaz/ML-Heroku-Deployement/blob/master/Screenshot%202020-07-07%20at%202.16.26%20AM.png
+
 8. After completing you can see a message app is deployed with an URL
 
 9. Take the url and launch it in the browser
