@@ -49,6 +49,10 @@ or
 
 9. Take the url and launch it in the browser
 
+10. To check logs
+
+```heroku logs --tail ```
+
 Thats it
 
 Reference:
